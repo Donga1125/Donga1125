@@ -1,15 +1,14 @@
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Donga’s%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
-
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonga1125%2Fhit-counter&count_bg=%2378D3F7&title_bg=%23C1A2F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-</div>
-<div align="center">
-<br/> 
-	
+ <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 신입 백엔드 개발자 정동아입니다. </div> 
+ </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> </div>
+	    
 💡**업무에 사용할 수 있어요**
 	
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -36,4 +35,13 @@
 ![unity](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 </div>
 <br>
-
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://velog.io/@ehddk0133> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ehddk0133"> </a>
+         <a href=.> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white&link=."> </a>
+         <a href=mailto:ehddk0133@naver.com> <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ehddk0133@naver.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    
