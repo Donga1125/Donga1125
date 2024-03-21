@@ -2,8 +2,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonga1125%2Fhit-counter&count_bg=%2378D3F7&title_bg=%23C1A2F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
  <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 신입 백엔드 개발자 정동아입니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 신입 백엔드 개발자 정동아입니다.</h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 새로운 기술의 적용과 문제 해결을 즐기고 안정적인 서비스를 제공하는 개발자, <br>
+다음 프로젝트도 함께 하고 싶은 동료가 되기를 희망합니다.  </div> 
  </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
