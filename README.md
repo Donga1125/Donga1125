@@ -71,7 +71,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@ehddk0133> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ehddk0133"> </a>
-         <a href=.> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://jda1125.notion.site/c47b7be4ed4c44be8b32b009f4252f15"> </a>
+         <a href=https://jda1125.notion.site/c47b7be4ed4c44be8b32b009f4252f15> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://jda1125.notion.site/c47b7be4ed4c44be8b32b009f4252f15"> </a>
          <a href=mailto:ehddk0133@naver.com> <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ehddk0133@naver.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
