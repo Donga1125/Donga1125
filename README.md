@@ -58,7 +58,7 @@
 <br>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚Other Experience </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚Study </h2>
     <div style="margin: ; text-align: left;" "text-align: left;"> </div>
 
 #### **취업 준비 스터디 운영** 2024.03 ~ 진행 중
