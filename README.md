@@ -61,7 +61,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚Study </h2>
     <div style="margin: ; text-align: left;" "text-align: left;"> </div>
 
-#### **취업 준비 스터디 운영** 2024.03 ~ 진행 중
+#### **취업 준비 스터디 운영** 2024.03 ~ 현재
 
 - [**스터디 관리를 위한 노션 페이지**](https://www.notion.so/04dfec43007d44f3a74676b01e814ec8?pvs=21)
 - 매일 꾸준한 학습을 위해 개설하였으며, 총 5명 인원으로 진행 중
