@@ -2,9 +2,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonga1125%2Fhit-counter&count_bg=%2378D3F7&title_bg=%23C1A2F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
  <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 신입 백엔드 개발자 정동아입니다.</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 새로운 기술의 적용과 문제 해결을 즐기고 안정적인 서비스를 제공하는 개발자, <br>
-다음 프로젝트도 함께 하고 싶은 동료가 되기를 희망합니다.  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 다음 프로젝트도 함께하고 싶은 백엔드 개발자 정동아 입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 기술 탐구에 대한 열정과 고민하고 포기하지 않는 자세, 상대를 존중하며 나의 의견을 적극적으로 전달하는 자세를 가진 사람이 </div> 함께 일하고 싶은 동료라고 생각합니다.  </div> 
  </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -46,11 +45,14 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education </h2> 
     <div style="margin: ; text-align: left;" "text-align: left;"> </div>
 	
- #### 전자정부 표준 프레임워크 교육 수료 2024.02
+#### 전자정부 표준 프레임워크 교육 수료 2024.02
 - 전자정부 표준 프레임워크 및 공통 컴포넌트 개발자 실무 온라인 교육 수료
+- 표준 프레임워크 개발환경 및 화면처리, 데이터처리 실습, 공통 컴포넌트 적용 실습 진행
 
 #### 코드스테이츠 소프트웨어 엔지니어링 부트캠프 2023.04 ~ 2023.10
 - 백엔드 개발자 과정 수료
+- JAVA, Spring, 자료 구조, 네트워크, 데이터 베이스 등 개발 기초 지식 학습
+- 팀 프로젝트 2회, 프로젝트 데모데이 및 Q&A, 주 1회 이상 페어프로그램 진행
 
 #### 경북대학교 2018.03 ~ 2022.02
 - 자동차공학부 친환경자동차 전공 학사 과정
@@ -76,7 +78,6 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@ehddk0133> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ehddk0133"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
          <a href=mailto:ehddk0133@naver.com> <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ehddk0133@naver.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
