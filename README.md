@@ -41,38 +41,6 @@
 </div>
 <br>
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education </h2> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> </div>
-	
-#### 전자정부 표준 프레임워크 교육 수료 2024.02
-- 전자정부 표준 프레임워크 및 공통 컴포넌트 개발자 실무 온라인 교육 수료
-- 표준 프레임워크 개발환경 및 화면처리, 데이터처리 실습, 공통 컴포넌트 적용 실습 진행
-
-#### 코드스테이츠 소프트웨어 엔지니어링 부트캠프 2023.04 ~ 2023.10
-- 백엔드 개발자 과정 수료
-- JAVA, Spring, 자료 구조, 네트워크, 데이터 베이스 등 기초 개발 지식 학습
-- 팀 프로젝트 2회, 프로젝트 데모데이 및 Q&A, 주 1회 이상 페어프로그램 진행
-
-#### 경북대학교 2018.03 ~ 2022.02
-- 자동차공학부 친환경자동차 전공 학사 과정
-  
-<br>
-
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚Study </h2>
-    <div style="margin: ; text-align: left;" "text-align: left;"> </div>
-
-#### **취업 준비 스터디 운영** 2024.03 ~ 현재
-
-- [**스터디 관리를 위한 노션 페이지**](https://www.notion.so/04dfec43007d44f3a74676b01e814ec8?pvs=21)
-- 매일 꾸준한 학습을 위해 개설하였으며, 총 10명 인원으로 진행 중
-
-#### **JAVA 알고리즘 스터디 참여** 2023.10 ~ 2023.12
-
-- https://github.com/Donga1125/Algorithm_Study
-- 꾸준한 알고리즘 학습을 위해 참여하였으며, 총 78개 문제 해결 완료
-
 <br> 
     </div>
     <div style="text-align: left;">
